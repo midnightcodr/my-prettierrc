@@ -1,9 +1,20 @@
 {
-  "name": "my-prettierrc",
+  "name": "@midnightcodr/my-prettierrc",
   "version": "1.0.1",
   "main": "index.js",
   "keywords": [],
   "author": "Rico Chen",
   "license": "ISC",
-  "description": ""
+  "description": "my own prettier config",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midnightcodr/my-prettierrc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/midnightcodr/my-prettierrc/issues"
+  },
+  "homepage": "https://github.com/midnightcodr/my-prettierrc#readme"
 }
